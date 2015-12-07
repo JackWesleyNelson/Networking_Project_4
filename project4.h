@@ -17,7 +17,8 @@
 #include <stdio.h>
 #include <netinet/in.h>
 #include <vector>
-
+#include <utility>
+#include <arpa/inet.h>
 // Include files specific to this project.
 #include "resultsC.h"
 
